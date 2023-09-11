@@ -1,7 +1,7 @@
 # [공공데이터 API를 이용한 노인 일자리 분석](https://github.com/DW-BI-Project)
-- 프로젝트 기간
-  - (1차) 2023.05.29 ~ 2023.06.02  -  [1차 프로젝트 링크](https://github.com/SilverWork/silverwork_legacy)
-  - (2차) 2023.06.26 ~ 2023.06.30
+> 프로젝트 기간
+> - (1차) 2023.05.29 ~ 2023.06.02  -  [1차 프로젝트 링크](https://github.com/SilverWork/silverwork_legacy)
+> - (2차) 2023.06.26 ~ 2023.06.30
 <br> 
 
 ## 1. Project Outline
