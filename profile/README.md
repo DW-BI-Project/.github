@@ -21,11 +21,10 @@
 > - 노인일자리 정책의 성과와 한계를 파악하고 개선할 수 있는 방안을 모색할 수 있습니다. 
 
 > __분석 결과 보고서 및 프로젝트 PPT__  
-> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 PPT.pdf](https://github.com/SilverWork/.github/files/12574597/2.1.PPT.pdf)
+> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 PPT.pdf](https://github.com/SilverWork/.github/files/files/12574763/2.API.PPT.pptx.pdf)
 > - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 보고서.pdf](https://github.com/SilverWork/.github/files/12574599/2.1.pdf)
 
 <br> 
-
 
 
 ## 2. Team Members & Roles
