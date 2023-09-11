@@ -20,7 +20,9 @@
 > - 노인일자리에 대한 상세한 이해를 도모할 수 있습니다.
 > - 노인일자리 정책의 성과와 한계를 파악하고 개선할 수 있는 방안을 모색할 수 있습니다. 
 
-
+> __분석 결과 보고서 및 프로젝트 PPT__  
+> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 PPT.pdf](https://github.com/SilverWork/.github/files/12574597/2.1.PPT.pdf)
+> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 보고서.pdf](https://github.com/SilverWork/.github/files/12574599/2.1.pdf)
 
 <br> 
 
@@ -104,7 +106,7 @@
 - 우대 사항 차트의 경우, 우대 사항 정보가 개수보다 중요하다고 판단하여 Pie Chart에서 WordCloud로 변경
 
 
-## 7. Dashboard 시연
+## 7. Result
 ![노인 일자리](https://github.com/learn-programmers/KDT_DATA_1st/assets/62321695/741826fd-f77c-436e-ae6f-a3bbb781b6bf)
 
 
