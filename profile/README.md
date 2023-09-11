@@ -1,4 +1,4 @@
-# [공공데이터 API를 이용한 노인 일자리 분석](https://github.com/DW-BI-Project)
+[(2차) 공공 데이터 API를 활용한 노인 일자리 분석 PPT.pdf](https://github.com/SilverWork/.github/files/12574807/2.API.PPT.pdf)# [공공데이터 API를 이용한 노인 일자리 분석](https://github.com/DW-BI-Project)
 > 프로젝트 기간
 > - (1차) 2023.05.29 ~ 2023.06.02  -  [1차 프로젝트 링크](https://github.com/SilverWork/silverwork_legacy)
 > - (2차) 2023.06.26 ~ 2023.06.30
@@ -21,10 +21,12 @@
 > - 노인일자리 정책의 성과와 한계를 파악하고 개선할 수 있는 방안을 모색할 수 있습니다. 
 
 > __분석 결과 보고서 및 프로젝트 PPT__  
-> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 PPT.pdf](https://github.com/SilverWork/.github/files/files/12574763/2.API.PPT.pptx.pdf)
-> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 보고서.pdf](https://github.com/SilverWork/.github/files/12574599/2.1.pdf)
+> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 보고서.pdf](https://github.com/SilverWork/.github/files/12574817/2.API.pdf)
+> - [(2차) 공공 데이터 API를 활용한 노인 일자리 분석 PPT.pdf](https://github.com/SilverWork/.github/files/12574816/2.API.PPT.pdf)
+
 
 <br> 
+
 
 
 ## 2. Team Members & Roles
