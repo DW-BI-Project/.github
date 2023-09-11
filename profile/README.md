@@ -1,6 +1,10 @@
 # [공공데이터 API를 이용한 노인 일자리 분석](https://github.com/DW-BI-Project)
+- 프로젝트 기간
+  - (1차) 2023.05.29 ~ 2023.06.02  -  [1차 프로젝트 링크](https://github.com/SilverWork/silverwork_legacy)
+  - (2차) 2023.06.26 ~ 2023.06.30
+<br> 
 
-## 1. 프로젝트 개요
+## 1. Project Outline
  노인일자리 사업은 65세 이상 노인들에게 경제적 자립과 사회 참여를 목적으로 정부에서 시행하고 있는 복지사업입니다. 
 최근 3개년 동안의 노인일자리 공고와 사업정보를 수집하여 노인일자리 채용 현황과 고용 지속성을 조사합니다. 
 
@@ -22,7 +26,7 @@
 
 
 
-## 2. 팀원
+## 2. Team Members & Roles
 | 이름 | 역할 | Github |
 |:---:|:---:|:---:|
 |**남윤아**|**Airflow를 이용한 ETL 구축**|**[@namuna309](https://github.com/namuna309)**
@@ -34,7 +38,7 @@
 <br> 
 
 
-## 3. tech
+## 3. Tech Stack
 | Field | Stack |
 |:---:|:---|
 | 사용 언어 | <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> |
